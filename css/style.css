@@ -1397,7 +1397,7 @@ section.gallery {
 @media screen and (max-width: 1024px) {
 	h3.tittle-w3ls {
     font-size: 2.5em !important;
-    margin-top: -40px;
+    margin-top: 12px;
 	}
 }
 
@@ -1617,6 +1617,7 @@ section.gallery {
 	}
 	h3.tittle-w3ls {
     font-size: 2em !important;
+    margin-top: 50px;
 	}
 	section.gallery {
     min-height: 175em;

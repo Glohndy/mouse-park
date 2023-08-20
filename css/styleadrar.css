@@ -2207,6 +2207,8 @@ figure.effect-apollo:hover p {
 	}
 	.slider-info {
 		margin: 2em 0 0 0;
+        font-size: 15px;
+        margin-top: 125px;
 	}
 	.more-button {
 		margin: 4em 0 1em 0;
@@ -2387,6 +2389,8 @@ h3.agileits-title, h2.agileits-title {
 	}
 	.slider-info {
 		margin: 1em 0 0 0;
+        font-size: x-small;
+        margin-top: 144px;
 	}
 	.slider-info h3 {
 		font-size: 2.5em;
@@ -2405,7 +2409,7 @@ h3.agileits-title, h2.agileits-title {
 		padding: .5em 1em;
 	}
 	.banner {
-		margin: 3em 0 0 0;
+		margin: 0em 0 0 0;
 	}
 	.callbacks_tabs {
 		right: 42%;
@@ -2587,6 +2591,8 @@ h3.agileits-title, h2.agileits-title {
 	}
 	.slider-info {
     margin: 0em 0 0 0;
+    font-size: xx-small;
+    margin-top: 170px;
 }
 .more-button {
     margin: 1em 0 1em 0;
